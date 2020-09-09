@@ -2,4 +2,4 @@
 A simple android Splash Screen
 
 ## demo
-![alt text](https://github.com/letecode/SplashSreen/demo/demo.gif?raw=true)
+![demo](https://github.com/letecode/SplashScreen/blob/master/demo/demo.gif?raw=true)
